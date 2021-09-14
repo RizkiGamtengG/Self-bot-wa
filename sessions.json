@@ -1,0 +1,7 @@
+connect attempt 1 failed: Error: getaddrinfo ENOTFOUND web.whatsapp.com, retrying...
+    error: {
+      "errno": -3007,
+      "code": "ENOTFOUND",
+      "syscall": "getaddrinfo",
+      "hostname": "web.whatsapp.com"
+    }
